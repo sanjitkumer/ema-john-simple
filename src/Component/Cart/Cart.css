@@ -1,0 +1,37 @@
+.card{
+    padding: 25px;
+    position:sticky;
+    top: 0;
+ }
+
+.card-total {
+    padding-left: 20px;
+}
+
+.cart-order {
+    text-align: center;
+}
+
+.btn-div {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-clear {
+    display: block;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px 0px;
+    background-color: rgb(234, 73, 86);
+}
+
+.btn-order{
+    display: block;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px 0px;
+    background-color: rgb(234, 73, 86);
+}
